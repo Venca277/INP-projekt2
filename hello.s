@@ -1,4 +1,4 @@
-; Autor reseni: Václav Sovák xsovakv00
+; Autor reseni: vaclav sovak xsovakv00
 
 ; Projekt 2 - INP 2024
 ; Vigenerova sifra na architekture MIPS64
